@@ -1,0 +1,182 @@
+/***********************************************
+					GENERAL
+************************************************/
+
+
+body {
+	width: 100%;
+	font-family: 'Dosis', sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color: #fff;
+}
+
+button {
+	background: #208a0b;
+	border: none;
+	padding: 15px 30px;
+	font-family: 'Arimo', sans-serif;
+}
+
+img {
+	max-width: 100%;
+}
+
+
+#nav {
+	width: 100%;
+	background-color: #fff;
+	height: 30px;
+	opacity: 0.5;
+}
+
+#nav ul li {
+	display: inline;
+	padding: 10px;
+	float: right;
+}
+#nav a {
+	text-decoration: none;
+	color: #000;
+}
+
+#logo img {
+	margin-top: -20px;
+	max-width: 15%;
+	margin-left: 4%;
+}
+
+
+div.background {
+	background: url('../img/bb.jpg') no-repeat center center fixed;
+	background-size: cover;
+	width: auto;
+}
+
+
+#postJob {
+	width: 100%;
+	clear: both;
+}
+
+#postJob h1 {
+	font-size: 48px;
+	line-height: 5px;
+	font-weight: bold;
+	padding-bottom: 25px;
+	padding-top: 25px;
+}
+
+#postContent {
+	width:80%;
+	margin: 0 auto;
+	line-height: 25px;
+	font-size: 1em;
+	padding: 20px;
+}
+
+
+#middleBlack {
+	clear: both;
+	max-width: 100%;
+	background: #464746;
+	opacity: 0.8;
+	color: #fff;
+	text-align: center;
+	line-height: 20px;
+}
+#middleBlack li {
+	display: inline;
+}
+
+#middleBlack h2 {
+	font-size: 1.2em;
+	padding-bottom: 5px;
+}
+
+#description h2 {
+	text-align: center;
+	font-size: 48px;
+	color: #777;
+	padding-bottom: 10px;
+}
+
+
+.box {
+	width:35%;
+	margin: 0 auto;
+	padding-bottom: 15px;
+	padding-left: 25px;
+}
+
+
+div.background1 {
+	background: url('../img/waterfall.jpg') no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	opacity: 0.75;
+	background-attachment: scroll;
+}
+
+#getStarted {
+	width: 100%;
+	text-align: center;
+}
+
+#getStarted h2 {
+	font-size: 32px;
+	font-weight: bold;
+	padding-bottom: 20px;
+}
+#getStarted p {
+	font-size: 24px;
+	font-weight: bold;
+	padding-bottom: 10px;
+}
+
+#partnerDiv {
+	max-width: 100%;
+	color: #777777;
+	font-size: 48px;
+}
+ #partnerDiv h2 {
+ 	text-align: center;
+ }
+#container {
+	max-width: 100%;
+	margin: 0 auto;
+}
+
+
+#container li {
+	margin: 5%;
+
+}
+
+#container img {
+	width: 35%;
+	float: left;
+	margin-right: 5%;
+	padding-left: 5%;
+	padding-bottom: 5%;
+	margin-bottom: 5%;
+}
+
+
+#footer {
+	background: #208a0b;
+	clear: both;
+	background: #464746;
+	font-size: 0.8em;
+	padding: 15px;
+	border-top: 3px solid #208a0b;
+}
+
+#footer li {
+	display: inline;
+	padding-left: 5px;
+}
